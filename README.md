@@ -1,41 +1,24 @@
-# Campus-OJ-Platform
+<div align="center">
 
-全栈 AI 校园 OJ 平台：在线刷题 + Judge0 沙箱评测 + 基于 LangChain 的智能推荐对话。
-**前端**
+# AI-Full-Stack-OJ-System
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,vite" alt="Vue Vite" />
-  <img src="https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=elementplus&logoColor=white" alt="Element Plus" />
-  <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor" />
-</p>
+<br/>
 
-**主后端** · 用户 / 题目 / 评论 / 异步判题
+<img src="https://skillicons.dev/icons?i=vue,vite,nestjs,fastapi,python,redis,mysql,docker&perline=8" width="480" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,redis" alt="NestJS Redis" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
-  <img src="https://img.shields.io/badge/Bull-DF3828?style=for-the-badge&logo=redis&logoColor=white" alt="Bull" />
-</p>
+<br/><br/>
 
-**AI 后端** · 多轮对话、个性化刷题推荐
+<img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&logo=elementplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Bull-DF3828?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Judge0-546E7A?style=flat-square&logo=docker&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,python" alt="FastAPI Python" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/通义千问-615EFF?style=for-the-badge" alt="通义千问" />
-</p>
+<br/><br/>
 
-**评测引擎** · 独立容器，Bull 队列消费
-
-<p>
-  <img src="https://img.shields.io/badge/Judge0-546E7A?style=for-the-badge&logo=docker&logoColor=white" alt="Judge0" />
-</p>
-
-**基础设施**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis" alt="MySQL Redis" />
-</p>
+</div>
 
 ```mermaid
 flowchart LR
