@@ -5,6 +5,7 @@ backend/oj-docker-java
 backend/oj-nest/dist
 backend/oj-recommend-py/.venv
 backend/oj-recommend-py/build
+backend/oj-recommend-py/*.tar
 frontend/dist
 
 
