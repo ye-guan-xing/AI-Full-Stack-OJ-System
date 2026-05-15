@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+redis
+pymysql
+cryptography
+loguru
+langchain
+langchain_openai
+pyinstaller
