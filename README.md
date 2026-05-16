@@ -4,17 +4,24 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=vue,vite,nestjs,fastapi,python,redis,mysql,docker&perline=8" width="480" />
+<img src="https://img.shields.io/static/v1?label=Vue&message=Expert&color=4FC08D&logo=vuedotjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Vite&message=Proficient&color=646CFF&logo=vite&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=NestJS&message=Advanced&color=E0234E&logo=nestjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=FastAPI&message=Proficient&color=009688&logo=fastapi&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Python&message=Advanced&color=3776AB&logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Redis&message=Expert&color=DC382D&logo=redis&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=MySQL&message=Expert&color=4479A1&logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Docker&message=Advanced&color=2496ED&logo=docker&logoColor=white&style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&logo=elementplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" />
-<img src="https://img.shields.io/badge/Bull-DF3828?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen-615EFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Judge0-546E7A?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/static/v1?label=Element+Plus&message=Proficient&color=409EFF&logo=elementplus&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Monaco&message=Advanced&color=007ACC&logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=TypeORM&message=Proficient&color=FE0902&logo=typeorm&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Bull&message=Proficient&color=DF3828&logo=redis&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=LangChain&message=Advanced&color=1C3C3C&logo=langchain&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Qwen&message=Proficient&color=615EFF&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Judge0&message=Proficient&color=546E7A&logo=docker&logoColor=white&style=for-the-badge" />
 
 <br/><br/>
 
