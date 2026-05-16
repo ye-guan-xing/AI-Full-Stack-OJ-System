@@ -1,0 +1,10 @@
+flowchart LR
+  user[浏览器] --> fe[Vue3 前端]
+  fe -->|REST| nest[NestJS 主后端]
+  fe -->|REST| py[FastAPI AI 后端]
+  nest --> mysql[(MySQL)]
+  nest --> redis[(Redis)]
+  nest -->|Bull 队列| judge0[Judge0 沙箱]
+  py --> mysql
+  py --> redis
+  py --> llm[通义千问 LLM]
